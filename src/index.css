@@ -1,0 +1,24 @@
+input {
+  margin: 10px;
+	width: 100px;
+}
+
+#sec {
+  font-size: 100px;
+  color: grey;
+}
+
+#milsec {
+  color: grey;
+	font-size: 50px;
+}
+
+.main {
+	margin-left: 30%;
+  margin-right: auto;
+}
+
+ul {
+    color: grey;
+    list-style-type: none;
+}
